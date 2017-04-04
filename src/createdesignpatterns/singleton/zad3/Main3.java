@@ -1,4 +1,4 @@
-package CreateDesignPattern.Singleton.zad3;
+package createdesignpatterns.singleton.zad3;
 /*
 * Помислете за международна авиолиния с множество сървъри,
 * разположени по целия свят, които обработват резервации.
