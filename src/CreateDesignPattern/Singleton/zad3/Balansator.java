@@ -1,4 +1,4 @@
-package Singleton.zad3;
+package CreateDesignPattern.Singleton.zad3;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package Singleton.zad2;
+package CreateDesignPattern.Singleton.zad2;
 
 /**
  * Created by ShenaiKabilova
