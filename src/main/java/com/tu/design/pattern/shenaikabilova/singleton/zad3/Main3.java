@@ -1,4 +1,4 @@
-package createdesignpatterns.singleton.zad3;
+package com.tu.design.pattern.shenaikabilova.singleton.zad3;
 /*
 * Помислете за международна авиолиния с множество сървъри,
 * разположени по целия свят, които обработват резервации.

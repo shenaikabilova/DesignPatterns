@@ -1,4 +1,4 @@
-package createdesignpatterns.singleton.zad3;
+package com.tu.design.pattern.shenaikabilova.singleton.zad3;
 
 /**
  * Created by ShenaiKabilova
