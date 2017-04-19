@@ -1,4 +1,4 @@
-package createdesignpatterns.singleton.zad3;
+package shenaikabilova.createdesignpatterns.singleton.zad3;
 
 import java.util.HashSet;
 import java.util.Set;
